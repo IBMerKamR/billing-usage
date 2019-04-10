@@ -48,6 +48,8 @@ Promo codes and feature codes are different!
 
    If you purchase a subscription, you typically receive an email with the feature code. To redeem your feature code, go to **Manage > Account**, and select **Account settings**. Under Feature Codes, click **Apply code**. If you don't see this option in your account, you might not have the required access roles. For more information, see [Applying feature codes](/docs/account?topic=account-codes).
 
+To redeem promo code follow same steps described above for feature codes.
+
 ## How do I cancel my account?
 {: #cancelmyaccount}
 {: faq}
